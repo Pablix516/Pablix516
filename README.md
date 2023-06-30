@@ -1,7 +1,7 @@
 Soy un estudiante del Grado de Ingeniería Informática en la Universidad Autónoma de Madrid con una pasión por aprender y mejorar constantemente. Me considero una persona curiosa, creativa y agradable. Siempre estoy buscando oportunidades para aprender y crecer tanto personal como profesionalmente.
 
 ## Experiencia y educación
-Actualmente me encuentro cursando el cuarto año del Grado en Ingeniería Informáctica. Durante mis tres años de grado, tuve la oportunidad de aprender múltiples lenguajes de programación (para más información [pulse aqui](#1)), métodos y técnicas para trabajar en un proyecto; y todo lo fundamental sobre las IT. Este aprendizaje me brinda la oportunidad de poder trabajar en proyectos tecnológicos y gracias a mi ética de trabajo duro y buena organización seré capaz de realizar un trabajo de calidad y atendiendo a las necesidades del proyecto.
+Actualmente me encuentro cursando el cuarto año del Grado en Ingeniería Informáctica. Durante mis tres años de grado, tuve la oportunidad de aprender múltiples lenguajes de programación (para más información vease la sección de [Lenguajes y herramientas](#1)), métodos y técnicas para trabajar en un proyecto; y todo lo fundamental sobre las IT. Este aprendizaje me brinda la oportunidad de poder trabajar en proyectos tecnológicos y gracias a mi ética de trabajo duro y buena organización seré capaz de realizar un trabajo de calidad y atendiendo a las necesidades del proyecto.
 
 ## Áreas de especialización
 Mis principales áreas de especialización incluyen:
