@@ -35,7 +35,7 @@ Además de mis habilidades técnicas, también destaco en mis habilidades interp
 <p align="left">
 <a href="https://instagram.com/pablov2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablov2002" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pablix516" height="30" width="40" /></a>
-<a href="mailto:pvgcosas@gmail.com" target="blank"><img align="center" src="https://es.vecteezy.com/arte-vectorial/2557425-google-mail-icon-logo-isolated-on-transparent-background" alt="pvgcosas@gmail.com" height="30" width="40" /></a>
+<a href="mailto:pvgcosas@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="pvgcosas@gmail.com" height="20" width="25" /></a>
 </p>
 
 ## Lenguajes y herramientas <a name="1" />
